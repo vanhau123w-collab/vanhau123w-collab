@@ -45,6 +45,12 @@ Chào mừng bạn đến với không gian làm việc của tôi trên GitHub.
 - **Tech stack:** ReactJS, RESTful API integration.
 - **Điểm nhấn:** Giao diện hiện đại, trải nghiệm người dùng mượt mà.
 
+### 🧠 [ChayNgayDi_MazeHunter](https://github.com/teehihi/ChayNgayDi_MazeHunter)
+> **Academic / AI Project** - Mô phỏng thuật toán và AI trong môi trường Mê cung.
+- **Lĩnh vực:** Cấu trúc dữ liệu & Giải thuật (AI, Pathfinding).
+- **Mô tả:** Thử nghiệm các thuật toán tìm đường và cơ chế AI đuổi bắt (Hunter) trong môi trường mê cung ngẫu nhiên.
+- **Trạng thái:** Đang phát triển / Bản thử nghiệm.
+
 ---
 
 ## 📊 GitHub Stats
