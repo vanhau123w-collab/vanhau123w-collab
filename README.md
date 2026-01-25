@@ -7,7 +7,6 @@ Chào mừng bạn đến với không gian làm việc của tôi trên GitHub.
 ## 🚀 About Me
 
 - 🔭 Tôi đang phát triển các dự án thực tế với **Spring Boot** và **React**.
-- 🌱 Tôi đang tìm hiểu sâu về **AWS Services** (CloudFront, Cognito) và **Docker**.
 - 🎓 Tôi quan tâm đến việc áp dụng công nghệ để giải quyết các bài toán thực tế (như dự án *UniQuizz*).
 - 🧠 Bên cạnh code, tôi dành thời gian nghiên cứu về **Xã hội học** & **Triết học** để có cái nhìn đa chiều hơn về cuộc sống.
 
