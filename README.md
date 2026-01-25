@@ -41,7 +41,7 @@ Chào mừng bạn đến với không gian làm việc của tôi trên GitHub.
 - **Tech stack:** Java, Spring Boot, JPA.
 - **Điểm nhấn:** Xử lý logic đề thi, xếp hạng realtime và quản lý người dùng.
 
-### 🍔 FoodieBrand
+### 🍔 DacSanViet
 > **E-commerce Frontend** - Website đặt món cho thương hiệu F&B.
 - **Tech stack:** ReactJS, RESTful API integration.
 - **Điểm nhấn:** Giao diện hiện đại, trải nghiệm người dùng mượt mà.
