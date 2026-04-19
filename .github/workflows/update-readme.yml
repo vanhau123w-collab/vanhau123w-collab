@@ -1,0 +1,56 @@
+name: Auto-Update Latest Projects
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Lên lịch chạy tự động vào nửa đêm (UTC) mỗi ngày
+  workflow_dispatch: # Cho phép bạn bấm nút "Run workflow" thủ công để test
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Lấy dữ liệu và Cập nhật README
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs');
+            
+            // Gọi GitHub API lấy 5 repository mới cập nhật gần nhất của bạn
+            const { data: repos } = await github.rest.repos.listForUser({
+              username: 'vanhau123w-collab',
+              sort: 'updated',
+              per_page: 5
+            });
+
+            let projectList = '\n';
+            let count = 0;
+            
+            repos.forEach(repo => {
+              // Bỏ qua repo chứa profile và các repo fork (nếu muốn)
+              if(repo.name !== 'vanhau123w-collab' && !repo.fork && count < 3) {
+                 projectList += `### 🔹 [${repo.name}](${repo.html_url})\n`;
+                 projectList += `> ${repo.description || 'Đang cập nhật mô tả...'}\n`;
+                 projectList += `- **Công nghệ chính:** ${repo.language || 'N/A'}\n\n`;
+                 count++;
+               }
+            });
+
+            const readmePath = 'README.md';
+            let readme = fs.readFileSync(readmePath, 'utf8');
+
+            // Tìm vị trí giữa 2 mốc và thay thế bằng danh sách project mới
+            const regex = /()[\s\S]*?()/;
+            readme = readme.replace(regex, `$1${projectList}$2`);
+
+            fs.writeFileSync(readmePath, readme);
+
+      - name: Commit và Push thay đổi
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "docs: tự động cập nhật dự án mới nhất" || echo "Không có thay đổi mới để commit"
+          git push
