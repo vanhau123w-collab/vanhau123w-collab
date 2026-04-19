@@ -53,6 +53,11 @@ Chào mừng bạn đến với không gian làm việc của tôi trên GitHub.
 
 ---
 
+## 🆕 Latest Projects
+*Các dự án mới nhất dưới đây được cập nhật tự động bằng GitHub Actions.*
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
