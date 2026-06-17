@@ -129,6 +129,19 @@
 - **Công nghệ chính:** Java
 
 
+### 🔹 [AdapterDemo](https://github.com/vanhau123w-collab/AdapterDemo)
+> Đang cập nhật mô tả...
+- **Công nghệ chính:** Python
+
+### 🔹 [Autoquiz](https://github.com/vanhau123w-collab/Autoquiz)
+> Đang cập nhật mô tả...
+- **Công nghệ chính:** Java
+
+### 🔹 [Autoquizz](https://github.com/vanhau123w-collab/Autoquizz)
+> Đang cập nhật mô tả...
+- **Công nghệ chính:** Java
+
+
 ### 🔹 [Autoquiz](https://github.com/vanhau123w-collab/Autoquiz)
 > Đang cập nhật mô tả...
 - **Công nghệ chính:** Java
