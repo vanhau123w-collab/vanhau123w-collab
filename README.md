@@ -1,4 +1,17 @@
 
+### 🔹 [My_Portfolio](https://github.com/vanhau123w-collab/My_Portfolio)
+> Đang cập nhật mô tả...
+- **Công nghệ chính:** N/A
+
+### 🔹 [XeNow](https://github.com/vanhau123w-collab/XeNow)
+> Đang cập nhật mô tả...
+- **Công nghệ chính:** Java
+
+### 🔹 [DacSanViet](https://github.com/vanhau123w-collab/DacSanViet)
+> Đang cập nhật mô tả...
+- **Công nghệ chính:** HTML
+
+
 ### 🔹 [XeNow](https://github.com/vanhau123w-collab/XeNow)
 > Đang cập nhật mô tả...
 - **Công nghệ chính:** Java
