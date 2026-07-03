@@ -27,18 +27,37 @@ jobs:
               per_page: 5
             });
 
+            const customDescriptions = {
+              'My_Portfolio': 'Trang web Portfolio cá nhân với giao diện hiện đại được xây dựng bằng Next.js, Tailwind CSS và TypeScript.',
+              'XeNow': 'Ứng dụng quản lý dịch vụ đặt xe và theo dõi hành trình được xây dựng bằng Java.',
+              'DacSanViet': 'Website giới thiệu và đặt hàng món ăn đặc sản vùng miền Việt Nam.',
+              'AdapterDemo': 'Chương trình mô phỏng và triển khai cấu trúc Adapter Design Pattern bằng Python.',
+              'Autoquiz': 'Công cụ tự động hóa làm bài kiểm tra trắc nghiệm trực tuyến viết bằng Java.',
+              'Autoquizz': 'Công cụ tự động hóa làm bài kiểm tra trắc nghiệm trực tuyến viết bằng Java.',
+              'javascript': 'Dự án tổng hợp các bài tập và thực hành về ngôn ngữ lập trình JavaScript.',
+              'meCungCuoiKyTest': 'Mô phỏng thuật toán AI tìm đường trong mê cung bằng Python và thư viện Pygame.'
+            };
+
+            const customLanguages = {
+              'My_Portfolio': 'Next.js / TypeScript',
+              'DacSanViet': 'ReactJS',
+              'meCungCuoiKyTest': 'Python / Pygame'
+            };
+
             let projectList = '\n';
             let count = 0;
             
             repos.forEach(repo => {
               // Bỏ qua repo chứa profile và các repo fork (nếu muốn)
               if(repo.name !== 'vanhau123w-collab' && !repo.fork && count < 3) {
+                 const desc = customDescriptions[repo.name] || repo.description || 'Đang cập nhật mô tả...';
+                 const lang = customLanguages[repo.name] || repo.language || 'N/A';
                  projectList += `### 🔹 [${repo.name}](${repo.html_url})\n`;
-                 projectList += `> ${repo.description || 'Đang cập nhật mô tả...'}\n`;
-                 projectList += `- **Công nghệ chính:** ${repo.language || 'N/A'}\n\n`;
+                 projectList += `> ${desc}\n`;
+                 projectList += `- **Công nghệ chính:** ${lang}\n\n`;
                  count++;
                }
-            });
+             });
 
             const readmePath = 'README.md';
             let readme = fs.readFileSync(readmePath, 'utf8');
