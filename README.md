@@ -57,6 +57,18 @@ Chào mừng bạn đến với không gian làm việc của tôi trên GitHub.
 *Các dự án mới nhất dưới đây được cập nhật tự động bằng GitHub Actions.*
 
 <!-- START_SECTION:projects -->
+### 🔹 [My_Portfolio](https://github.com/vanhau123w-collab/My_Portfolio)
+> Đang cập nhật mô tả...
+- **Công nghệ chính:** N/A
+
+### 🔹 [XeNow](https://github.com/vanhau123w-collab/XeNow)
+> Đang cập nhật mô tả...
+- **Công nghệ chính:** Java
+
+### 🔹 [DacSanViet](https://github.com/vanhau123w-collab/DacSanViet)
+> Đang cập nhật mô tả...
+- **Công nghệ chính:** HTML
+
 <!-- END_SECTION:projects -->
 
 ---
