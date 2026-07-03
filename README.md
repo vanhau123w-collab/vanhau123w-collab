@@ -65,9 +65,9 @@ Chào mừng bạn đến với không gian làm việc của tôi trên GitHub.
 
 <div align="center">
 
-![Van Hau's Stats](https://github-readme-stats.vercel.app/api?username=vanhau123w-collab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![Van Hau's Stats](https://github-stats-extended.vercel.app/api?username=vanhau123w-collab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vanhau123w-collab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=vanhau123w-collab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
 </div>
 
