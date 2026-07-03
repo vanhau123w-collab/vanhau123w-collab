@@ -92,16 +92,16 @@ Tôi là một lập trình viên đam mê phát triển hệ thống **Java Bac
 
 <!-- START_SECTION:projects -->
 ### 🔹 [My_Portfolio](https://github.com/vanhau123w-collab/My_Portfolio)
-> Đang cập nhật mô tả...
-- **Công nghệ chính:** N/A
+> Trang web Portfolio cá nhân với giao diện hiện đại được xây dựng bằng Next.js, Tailwind CSS và TypeScript.
+- **Công nghệ chính:** Next.js / TypeScript
 
 ### 🔹 [XeNow](https://github.com/vanhau123w-collab/XeNow)
-> Đang cập nhật mô tả...
+> Ứng dụng quản lý dịch vụ đặt xe và theo dõi hành trình được xây dựng bằng Java.
 - **Công nghệ chính:** Java
 
 ### 🔹 [DacSanViet](https://github.com/vanhau123w-collab/DacSanViet)
-> Đang cập nhật mô tả...
-- **Công nghệ chính:** HTML
+> Website giới thiệu và đặt hàng món ăn đặc sản vùng miền Việt Nam.
+- **Công nghệ chính:** ReactJS
 
 <!-- END_SECTION:projects -->
 
