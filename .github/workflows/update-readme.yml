@@ -8,6 +8,8 @@ on:
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
@@ -42,7 +44,7 @@ jobs:
             let readme = fs.readFileSync(readmePath, 'utf8');
 
             // Tìm vị trí giữa 2 mốc và thay thế bằng danh sách project mới
-            const regex = /()[\s\S]*?()/;
+            const regex = /(<!-- START_SECTION:projects -->)[\s\S]*?(<!-- END_SECTION:projects -->)/;
             readme = readme.replace(regex, `$1${projectList}$2`);
 
             fs.writeFileSync(readmePath, readme);
