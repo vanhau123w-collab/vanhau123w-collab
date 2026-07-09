@@ -91,10 +91,6 @@ Tôi là một lập trình viên đam mê phát triển hệ thống **Java Bac
 *Các dự án mới nhất dưới đây được cập nhật tự động bằng GitHub Actions.*
 
 <!-- START_SECTION:projects -->
-### 🔹 [CardCrawler](https://github.com/vanhau123w-collab/CardCrawler)
-> Đang cập nhật mô tả...
-- **Công nghệ chính:** TypeScript
-
 ### 🔹 [My_Portfolio](https://github.com/vanhau123w-collab/My_Portfolio)
 > Trang web Portfolio cá nhân với giao diện hiện đại được xây dựng bằng Next.js, Tailwind CSS và TypeScript.
 - **Công nghệ chính:** Next.js / TypeScript
@@ -102,6 +98,10 @@ Tôi là một lập trình viên đam mê phát triển hệ thống **Java Bac
 ### 🔹 [XeNow](https://github.com/vanhau123w-collab/XeNow)
 > Ứng dụng quản lý dịch vụ đặt xe và theo dõi hành trình được xây dựng bằng Java.
 - **Công nghệ chính:** Java
+
+### 🔹 [DacSanViet](https://github.com/vanhau123w-collab/DacSanViet)
+> Website giới thiệu và đặt hàng món ăn đặc sản vùng miền Việt Nam.
+- **Công nghệ chính:** ReactJS
 
 <!-- END_SECTION:projects -->
 
@@ -114,7 +114,7 @@ Tôi là một lập trình viên đam mê phát triển hệ thống **Java Bac
 [![Van Hau's Stats](https://github-stats-extended.vercel.app/api?username=vanhau123w-collab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/vanhau123w-collab)
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=vanhau123w-collab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/vanhau123w-collab)
 
-[![GitHub Streak](profile/streak.svg)](https://github.com/vanhau123w-collab)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vanhau123w-collab&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/vanhau123w-collab)
 
 </div>
 
@@ -123,10 +123,10 @@ Tôi là một lập trình viên đam mê phát triển hệ thống **Java Bac
 ## 📫 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/v%C4%83n-h%E1%BA%ADu-ph%E1%BA%A1m-83224b1bb" target="blank">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
-  <a href="mailto:vanhau123w@gmail.com" target="blank">
+  <a href="mailto:your-email@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
 </p>
