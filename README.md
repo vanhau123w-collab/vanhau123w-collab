@@ -114,7 +114,7 @@ Tôi là một lập trình viên đam mê phát triển hệ thống **Java Bac
 [![Van Hau's Stats](https://github-stats-extended.vercel.app/api?username=vanhau123w-collab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/vanhau123w-collab)
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=vanhau123w-collab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/vanhau123w-collab)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vanhau123w-collab&theme=tokyonight&hide_border=true&background=0d1117)](https://github.com/vanhau123w-collab)
+[![GitHub Streak](profile/streak.svg)](https://github.com/vanhau123w-collab)
 
 </div>
 
