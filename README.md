@@ -91,6 +91,10 @@ Tôi là một lập trình viên đam mê phát triển hệ thống **Java Bac
 *Các dự án mới nhất dưới đây được cập nhật tự động bằng GitHub Actions.*
 
 <!-- START_SECTION:projects -->
+### 🔹 [CardCrawler](https://github.com/vanhau123w-collab/CardCrawler)
+> Đang cập nhật mô tả...
+- **Công nghệ chính:** TypeScript
+
 ### 🔹 [My_Portfolio](https://github.com/vanhau123w-collab/My_Portfolio)
 > Trang web Portfolio cá nhân với giao diện hiện đại được xây dựng bằng Next.js, Tailwind CSS và TypeScript.
 - **Công nghệ chính:** Next.js / TypeScript
@@ -98,10 +102,6 @@ Tôi là một lập trình viên đam mê phát triển hệ thống **Java Bac
 ### 🔹 [XeNow](https://github.com/vanhau123w-collab/XeNow)
 > Ứng dụng quản lý dịch vụ đặt xe và theo dõi hành trình được xây dựng bằng Java.
 - **Công nghệ chính:** Java
-
-### 🔹 [DacSanViet](https://github.com/vanhau123w-collab/DacSanViet)
-> Website giới thiệu và đặt hàng món ăn đặc sản vùng miền Việt Nam.
-- **Công nghệ chính:** ReactJS
 
 <!-- END_SECTION:projects -->
 
