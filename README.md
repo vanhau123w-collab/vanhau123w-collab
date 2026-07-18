@@ -95,13 +95,13 @@ Tôi là một lập trình viên đam mê phát triển hệ thống **Java Bac
 > Đang cập nhật mô tả...
 - **Công nghệ chính:** TypeScript
 
-### 🔹 [CardCrawler](https://github.com/vanhau123w-collab/CardCrawler)
-> Đang cập nhật mô tả...
-- **Công nghệ chính:** TypeScript
-
 ### 🔹 [My_Portfolio](https://github.com/vanhau123w-collab/My_Portfolio)
 > Trang web Portfolio cá nhân với giao diện hiện đại được xây dựng bằng Next.js, Tailwind CSS và TypeScript.
 - **Công nghệ chính:** Next.js / TypeScript
+
+### 🔹 [CardCrawler](https://github.com/vanhau123w-collab/CardCrawler)
+> Đang cập nhật mô tả...
+- **Công nghệ chính:** TypeScript
 
 <!-- END_SECTION:projects -->
 
